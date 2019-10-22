@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{26005786-6F87-D14A-9974-E2C6B23063D5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Collider.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoveForward.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" />
+      <File FileName="Assets/Scripts/KillBounds.cs" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="25" Column="2" />
+      <File FileName="Assets/Scripts/Collider.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Collider.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ffa7c0e6-b633-4484-8d48-5e978faf9ea7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
