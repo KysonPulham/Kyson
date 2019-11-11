@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{A1D6E052-9028-E90F-0454-4D89ECD78B61}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RepeatBackground.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoveLeft.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="24" Column="32" />
-      <File FileName="Assets/Scripts/MoveLeft.cs" Line="7" Column="28" />
-      <File FileName="Assets/Scripts/SpawnManager.cs" Line="12" Column="82" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="11" Column="34" />
+      <File FileName="Assets/Scripts/MoveLeft.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="22" Column="10" />
       <File FileName="Assets/Scripts/RepeatBackground.cs" Line="19" Column="1" />
     </Files>
     <Pads>
@@ -12,7 +12,7 @@
           <Node name="ProtoType 3" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="RepeatBackground.cs" selected="True" />
+                <Node name="MoveLeft.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -22,7 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e8c6c40-471c-41b8-9e29-8ae781a6b9e4" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e5851cf-1fd1-4fe3-a29b-0a5fbe5d3bc9" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
