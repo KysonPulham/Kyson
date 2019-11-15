@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     public float gravityModifier;
     bool isOnGround = true;
     public bool gameOver = false;
+    public ParticleSystem explosionParticle;
     private Animator playerAnim;
     // Start is called before the first frame update
     void Start()
@@ -31,7 +32,7 @@ public class PlayerController : MonoBehaviour
       
 
     }
-    private void OnCollisionEnter(Collision collision )
+    private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
@@ -40,10 +41,13 @@ public class PlayerController : MonoBehaviour
         }
         else if (collision.gameObject.CompareTag("Obstacle"))
         {
+            
             Debug.Log("Game Over!");
             gameOver = true;
             playerAnim.SetBool("Death_b", true);
             playerAnim.SetInteger("DeathType_int", 1);
+            explosionParticle.Play();
+
         }
 
 
