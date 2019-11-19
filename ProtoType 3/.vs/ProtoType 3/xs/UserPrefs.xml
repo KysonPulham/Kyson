@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{A1D6E052-9028-E90F-0454-4D89ECD78B61}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="30" Column="48" />
-      <File FileName="Assets/Scripts/MoveLeft.cs" Line="7" Column="28" />
-      <File FileName="Assets/Scripts/SpawnManager.cs" />
-      <File FileName="Assets/Scripts/RepeatBackground.cs" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="58" Column="55" />
+      <File FileName="Assets/Scripts/MoveLeft.cs" Line="7" Column="30" />
+      <File FileName="Assets/Scripts/SpawnManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RepeatBackground.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
